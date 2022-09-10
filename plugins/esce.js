@@ -4,7 +4,7 @@
 let handler = async (m, { conn, command }) => {
     conn.reply(m.chat, `*BETA V2.0.1.6*
 • *Multi Auth ( Multiple File Session )*
-• https://github.com/BOTCAHX/RT-X-MD
+• https://github.com/RonzzCrafts7646/RT-X-MD
 • Script ini mempunyai sesi yang banyak
 • Maka Saran gunakan replit atau jenis run yang bisa save file terlebih dahulu lalu download file sessions nya.
 • Biasanya memiliki 50 sesi atau bisa lebih
